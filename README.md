@@ -13,7 +13,3 @@ I have 8+ years of experience in .NET Technologies along with Angular and SQL.
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
 
 <hr/>
-
-<a href="https://github.com/marcosfrdg">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosfrdg&count_private=true&show_icons=true&hide=stars" />
-</a>
