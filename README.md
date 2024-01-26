@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Marcos Rodrigues! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=marcosfrdg&color=blue)</div>
 
-<!--
-**marcosfrdg/marcosfrdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website URL](https://img.shields.io/badge/website-Check_it_out-yellow?logo=.net&style=for-the-badge)](https://www.marcosrodrigues.tech/)
 
-Here are some ideas to get you started:
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/marcosfrdg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **I'm a Senior Software Engineer (.NET).**
+I have 8+ years of experience in .NET Technologies along with Angular and SQL.
+
+- 🎯 **I’m currently working on**: Mastering the intricacies of Modular Monoliths, DDD, and some advanced software architectures
+- 🌱 **I’m currently learning**: .NET, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, CI/CD
+- 💬 **Ask me about**: .NET, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, CI/CD
+- 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
+
+<hr/>
+
+<a href="https://github.com/marcosfrdg">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosfrdg&count_private=true&show_icons=true&hide=stars" />
+</a>
