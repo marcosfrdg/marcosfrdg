@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcos Rodrigues! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=marcosfrdg&color=blue)</div>
 
-[![Website URL](https://img.shields.io/badge/website-Check_it_out-yellow?logo=.net&style=for-the-badge)](https://www.marcosrodrigues.tech/)
+[![Website URL](https://img.shields.io/badge/website-Check_it_out-yellow?logo=.net&style=for-the-badge)](https://marcosrodrigues.pro/)
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/marcosfrdg)
 
